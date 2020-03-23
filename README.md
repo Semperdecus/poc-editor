@@ -15,6 +15,7 @@ The demo will open in your browser.
 
 ## Architecture
 Editor.js contains the most interesting code
+
 Toolbox.js was more to test simple methods from monaco editor
 
 
