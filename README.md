@@ -1,5 +1,5 @@
 # Monaco editor PoC
-A proof of concept to get used to microsoft monaco editor functionalities in react.
+A simple proof of concept/playground to get used to microsoft monaco editor functionalities in react.
 
 ## Utilities
 -	React
@@ -18,4 +18,5 @@ Editor.js contains the most interesting code
 
 Toolbox.js was more to test simple methods from monaco editor
 
+Editor2.js was to test a different monaco package currently not used
 
