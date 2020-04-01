@@ -5,6 +5,7 @@ A simple proof of concept/playground to get used to microsoft monaco editor func
 -	React
 -	Webpack
 -	Babel
+- [(React) monaco editor](https://github.com/Microsoft/monaco-editor)
 
 ## To run:
 ```
