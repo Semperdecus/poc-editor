@@ -1,5 +1,5 @@
 # Monaco editor PoC
-A simple proof of concept/playground to get used to microsoft monaco editor functionalities in react.
+A simple proof of concept/playground to get used to microsoft monaco editor functionalities in react, create a function to select ranges and add intellisense.
 
 ## Utilities
 -	React
